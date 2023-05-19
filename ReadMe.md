@@ -1,0 +1,1 @@
+Hey, Why didnt I use git for committing repositories? I think ı was dumb but I changed.(Right?)
